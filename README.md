@@ -1,10 +1,4 @@
-<img alt='log' src="client/public/icons/android-chrome-192x192.png" style='height:48px' />
 
-## OpenBook  - A E-Commerce for Book Selling Progressive Web App
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://openbook48.herokuapp.com) 
-
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://openbook48.herokuapp.com) [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/MasterKN48/OpenBook-E-Commerce/issues/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/MasterKN48/blogs/master/LICENSE)  [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)]()  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/MasterKN48/OpenBook-E-Commerce) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/MasterKN48/OpenBook-E-Commerce)
 
 It is an MERN ( mongodb, express, react, node) stack e-commerce app. This app includes lots of functionality like user dashboard, admin dashboard, create-product, create-category, manage order, buy books, profile management, cart , checkout with brain-tree payment gateway (sandbox) with credit card and paypal. 
 
